@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sunshine_common/sunshine_common.iml" filepath="$PROJECT_DIR$/sunshine_common/sunshine_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunshine_dao/sunshine_dao.iml" filepath="$PROJECT_DIR$/sunshine_dao/sunshine_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunshine_model/sunshine_model.iml" filepath="$PROJECT_DIR$/sunshine_model/sunshine_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunshine_parent.iml" filepath="$PROJECT_DIR$/sunshine_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunshine_service/sunshine_service.iml" filepath="$PROJECT_DIR$/sunshine_service/sunshine_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunshine_tools/sunshine_tools.iml" filepath="$PROJECT_DIR$/sunshine_tools/sunshine_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunshine_web/sunshine_web.iml" filepath="$PROJECT_DIR$/sunshine_web/sunshine_web.iml" />
+    </modules>
+  </component>
+</project>
